@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is **Raymond** and this is my Github account
 
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
