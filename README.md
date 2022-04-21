@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**Ray026/Ray026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
 - 
