@@ -28,9 +28,9 @@
 My name is **Raymond** and this is my Github account<br>
 
 - :zap: I love math, programming, and books<br>
-- 🌱 I’m currently mastering my skill in C
--:group_of_people: ’m looking to collaborate on C projects
- 
+- 🌱 I’m currently mastering my skill in C<BR>
+    👯 I’m looking to collaborate on Javascript project
+
    ---
   
   ### :hammer_and_wrench: Languages and Tools :
