@@ -24,7 +24,7 @@
 </h1>
  ---
  
-    ### 👨‍💻: About Me:##
+  <h2> 👨‍💻: About Me:</h2>
   I am learning Software Engineering in the ALX School Program<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100">from Kenya.<br>
 
 My name is **Raymond** and this is my Github account<br>
