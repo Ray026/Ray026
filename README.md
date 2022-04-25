@@ -22,10 +22,8 @@
   hey there! Hello Fellow < Developers/ >! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- ---
- 
-   👨‍💻: About Me:<br>
-  I am learning Software Engineering in the ALX School Program<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="400">from Kenya.<br>
+    
+  <h2 align="center">I am Simiyu Raymond Passionate in Software Development based in Kenya</h2>
 
 My name is **Raymond** and this is my Github account<br>
 
