@@ -1,11 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="500"/>
-  https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+ 
   </div>
   <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <div id="badges">
+  <a href="[LinkedIn]https://www.linkedin.com/in/simiyu-raymond-a5701b231/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="https://www.facebook.com/simiyu.raymond">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+      
+</div>
 </div>
   
 
