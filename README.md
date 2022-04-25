@@ -29,7 +29,7 @@ My name is **Raymond** and this is my Github account<br>
 
 - :zap: I love math, programming, and books<br>
 - 🌱 I’m currently mastering my skill in C<BR>
-    👯 I’m looking to collaborate on Javascript project
+- 👯 I’m looking to collaborate on C project
 
    ---
   
