@@ -24,17 +24,18 @@
 </h1>
  ---
   
-  <h2 align="center"> ### 👨‍💻: About Me:
-  I am learning Software Engineering in the ALX School Program<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100">from Kenya.
+  <h3 align="center"> <br>
+    ### 👨‍💻: About Me:
+  I am learning Software Engineering in the ALX School Program<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100">from Kenya.<br>
 
-My name is **Raymond** and this is my Github account
+My name is **Raymond** and this is my Github account<br>
 
-- :zap: I love math, programming, and books
-- 🌱 I’m addicted to learning and growing every day
+- :zap: I love math, programming, and books<br>
+- 🌱 I’m addicted to learning and growing every day<br>
 - 
-- 📫 How to find me: 
-  - :office: [LinkedIn]https://www.linkedin.com/in/simiyu-raymond-a5701b231/
-  - Am still working on other social media accounts I'll let you know when am through
+- 📫 How to find me: <br>
+  - :office: [LinkedIn]https://www.linkedin.com/in/simiyu-raymond-a5701b231/<br>
+  - Am still working on other social media accounts I'll let you know when am through<br>
  [![Simiyuraymond's github stats](https://github-readme-stats.vercel.app/api?username=Ray026&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Ray026/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray026)](https://github.com/Ray026/github-readme-stats)
    ---</h>
