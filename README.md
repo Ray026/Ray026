@@ -23,8 +23,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  ---
-  
-  <h3 align="center"> <br>
+ 
     ### 👨‍💻: About Me:
   I am learning Software Engineering in the ALX School Program<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100">from Kenya.<br>
 
@@ -38,7 +37,7 @@ My name is **Raymond** and this is my Github account<br>
   - Am still working on other social media accounts I'll let you know when am through<br>
  [![Simiyuraymond's github stats](https://github-readme-stats.vercel.app/api?username=Ray026&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Ray026/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray026)](https://github.com/Ray026/github-readme-stats)
-   ---</h>
+   ---
   
   ### :hammer_and_wrench: Languages and Tools :
   <div>
