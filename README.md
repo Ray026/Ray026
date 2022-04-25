@@ -23,13 +23,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     
-    <b>I am Simiyu Raymond Passionate in Software Development based in Kenya</b>
+      I am Simiyu Raymond Passionate in Software Development based in Kenya
 
 My name is **Raymond** and this is my Github account<br>
 
 - :zap: I love math, programming, and books<br>
-- 🌱 I’m addicted to learning and growing every day<br>
-  Its Practice that will make you a good Software developer.
+- 🌱 I’m currently mastering my skill in C
+-:group_of_people: ’m looking to collaborate on C projects
  
    ---
   
