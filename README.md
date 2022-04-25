@@ -22,9 +22,9 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- <h align="center"> ---
+ ---
   
-  ### 👨‍💻: About Me:
+  <h2 align="center"> ### 👨‍💻: About Me:
   I am learning Software Engineering in the ALX School Program<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100">from Kenya.
 
 My name is **Raymond** and this is my Github account
