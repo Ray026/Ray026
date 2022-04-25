@@ -25,7 +25,7 @@
  <h align="center"> ---
   
   ### 👨‍💻: About Me:
-  I am a full stack engineer <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100">from Kenya.
+  I am learning Software Engineering in the ALX School Program<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100">from Kenya.
 
 My name is **Raymond** and this is my Github account
 
