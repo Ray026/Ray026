@@ -33,7 +33,7 @@ My name is **Raymond** and this is my Github account<br>
 - 🌱 I’m addicted to learning and growing every day<br>
   Its Practice that will make you a good Software developer.
   
-These are the statistics of how the Projects are being done<br>
+  <p>These are the statistics of how the Projects are being done</p><br>
  [![Simiyuraymond's github stats](https://github-readme-stats.vercel.app/api?username=Ray026&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Ray026/github-readme-stats)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray026)](https://github.com/Ray026/github-readme-stats)
    ---
