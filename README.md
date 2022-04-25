@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="500"/>
-  </div>
   https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+  </div>
+  
   
 
 ### Hi there 👋
