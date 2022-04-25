@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     
-    <<b>I am Simiyu Raymond Passionate in Software Development based in Kenya<b/>
+    <b>I am Simiyu Raymond Passionate in Software Development based in Kenya<b/>
 
 My name is **Raymond** and this is my Github account<br>
 
