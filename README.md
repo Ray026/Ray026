@@ -32,10 +32,7 @@ My name is **Raymond** and this is my Github account<br>
 - :zap: I love math, programming, and books<br>
 - 🌱 I’m addicted to learning and growing every day<br>
   Its Practice that will make you a good Software developer.
-  
-  <p><b>These are the statistics of how the Projects are being done</b></p>
- [![Simiyuraymond's github stats](https://github-readme-stats.vercel.app/api?username=Ray026&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Ray026/github-readme-stats)<br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray026)](https://github.com/Ray026/github-readme-stats)
+ 
    ---
   
   ### :hammer_and_wrench: Languages and Tools :
@@ -61,3 +58,6 @@ My name is **Raymond** and this is my Github account<br>
 ### :fire: My Stats :<br>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ray026&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   
+ [![Simiyuraymond's github stats](https://github-readme-stats.vercel.app/api?username=Ray026&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Ray026/github-readme-stats)<br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray026)](https://github.com/Ray026/github-readme-stats)
