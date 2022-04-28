@@ -22,6 +22,11 @@
   hey there! Hello Fellow < Developers/ >! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+    <!-- Typing SVG by DenverCoder1 - https://github.com/Ray026/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/Ray026/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ray;A%20Passionate%20ML%20Dev%20from%20Kenya!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
     
       I am Simiyu Raymond Passionate in Software Development based in Kenya
 
