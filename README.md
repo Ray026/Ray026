@@ -24,15 +24,9 @@
 </h1>
     <!-- Typing SVG by DenverCoder1 - https://github.com/Ray026/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/Ray026/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ray;A%20Passionate%20ML%20Dev%20from%20Kenya!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
-    
-      I am Simiyu Raymond Passionate in Software Development based in Kenya
-
-My name is **Raymond** and this is my Github account<br>
-
-- :zap: I love math, programming, and books<br>
+  <a href="https://github.com/Ray026/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Raymond;A%20Passionate%20Software%20Engineer%20from%20Kenya!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+    </p>
+    :zap: I love math, programming, and books<br>
 - 🌱 I’m currently mastering my skill in C<BR>
 - 👯 I’m looking to collaborate on C project
 
