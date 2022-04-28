@@ -24,7 +24,7 @@
 </h1>
     <!-- Typing SVG by DenverCoder1 - https://github.com/Ray026/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/Ray026/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%3Ray;A%3Passionate%3Software%30Engineer%3from%3Kenya;Always%3learning%3new%3things&font=Fira%3Code&center=true&width=460&height=50&color=FF6347&vCenter=true&size=22"></a>
+  <a href="https://github.com/Ray026/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%2eRay;A%2ePassionate%2eSoftware%30Engineer%2efrom%2eKenya;Always%2elearning%2enew%3things&font=Fira%2eCode&center=true&width=460&height=50&color=FF6347&vCenter=true&size=22"></a>
     </p>
     :zap: I love math, programming, and books<br>
 - 🌱 I’m currently mastering my skill in C<BR>
