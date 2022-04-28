@@ -1,4 +1,7 @@
-<div id="header" align="center" theme="dark">
+<style>
+  div{ background-color : black;
+  </style>
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="300"/>
  
   </div>
