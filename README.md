@@ -58,4 +58,5 @@
    
  [![Simiyuraymond's github stats](https://github-readme-stats.vercel.app/api?username=Ray026&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Ray026/github-readme-stats)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray026)](https://github.com/Ray026/github-readme-stats)
-  
+  <h2 align="center">📈 Activity</h2>
+<a href="https://github.com/Ray026/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ray026&theme=material-palenight" /> </a>
